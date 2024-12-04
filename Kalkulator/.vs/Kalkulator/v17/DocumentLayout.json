@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -38,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -56,43 +52,9 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T17:46:34.733Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "226627c1-1915-448e-abf2-efd32a937c49",
-        "Display": 1,
-        "X": 938,
-        "Y": -40,
-        "Width": 800,
-        "Height": 600,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T17:46:49.071Z",
               "EditorCaption": ""
             }
           ]

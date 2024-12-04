@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9xnaAaBApg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\Kalkulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lojek\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
