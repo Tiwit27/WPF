@@ -18,3 +18,4 @@ C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Release
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Release\net8.0-windows\Kalkulator.pdb
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Release\net8.0-windows\Kalkulator.genruntimeconfig.cache
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Release\net8.0-windows\ref\Kalkulator.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Release\net8.0-windows\Kalkulator.sourcelink.json

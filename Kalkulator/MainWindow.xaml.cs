@@ -92,21 +92,54 @@ namespace Kalkulator
                 memory[1] = decimal.Parse(textVisual.Text);
                 textVisual.Text = "0";
             }
+            decimal result;
             switch(memorySign)
             {
                 case Sign.plus:
-                    textVisual.Text = (memory[0] + memory[1]).ToString();
+                    result = (memory[0] + memory[1]);
+                    if(result % 1 == 0)
+                    {
+                        textVisual.Text = ((int)result).ToString();
+                    }
+                    else
+                    {
+                        textVisual.Text = result.ToString();
+                    }
                     break;
                 case Sign.minus:
-                    textVisual.Text = (memory[0] - memory[1]).ToString();
+                    result = (memory[0] - memory[1]);
+                    if (result % 1 == 0)
+                    {
+                        textVisual.Text = ((int)result).ToString();
+                    }
+                    else
+                    {
+                        textVisual.Text = result.ToString();
+                    }
                     break;
                 case Sign.multiplication:
-                    textVisual.Text = (memory[0] * memory[1]).ToString();
+                    result = (memory[0] * memory[1]);
+                    if (result % 1 == 0)
+                    {
+                        textVisual.Text = ((int)result).ToString();
+                    }
+                    else
+                    {
+                        textVisual.Text = result.ToString();
+                    }
                     break;
                 case Sign.division:
                     if (memory[1] != 0)
                     {
-                        textVisual.Text = (memory[0] / memory[1]).ToString();
+                        result = (memory[0] / memory[1]);
+                        if (result % 1 == 0)
+                        {
+                            textVisual.Text = ((int)result).ToString();
+                        }
+                        else
+                        {
+                            textVisual.Text = result.ToString();
+                        }
                     }
                     else
                     {
@@ -145,11 +178,11 @@ namespace Kalkulator
         }
         private void Dot(object sender, RoutedEventArgs e)
         {
-            if (isResult)
+            if (isResult || clear)
             {
                 textVisual.Text = "0";
             }
-            if(!textVisual.Text.Contains(','))
+            if (!textVisual.Text.Contains(','))
             {
                 textVisual.AppendText(",");
             }
