@@ -20,9 +20,10 @@ namespace Kalkulator
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = this;
         }
 
-        public void Button_Click(object sender, RoutedEventArgs e)
+        internal void Button_Click(object sender, RoutedEventArgs e)
         {
             if(isResult)
             {
@@ -40,7 +41,7 @@ namespace Kalkulator
             }
             isResult = false;
         }
-        private void MakeCalkulation(object sender, RoutedEventArgs e)
+        internal void MakeCalkulation(object sender, RoutedEventArgs e)
         {
             Button button = (Button)sender;
             char Sign = button.Content.ToString()[0];
@@ -81,7 +82,7 @@ namespace Kalkulator
             }
             clear = true;
         }
-        private void Calculate(object sender, RoutedEventArgs e)
+        internal void Calculate(object sender, RoutedEventArgs e)
         {
             if (textVisual.Text[textVisual.Text.Length - 1] == ',')
             {
@@ -158,14 +159,14 @@ namespace Kalkulator
             isResult = true;
             memorySign = Sign.nothing;
         }
-        private void Clear(object sender, RoutedEventArgs e)
+        internal void Clear(object sender, RoutedEventArgs e)
         {
             memory[0] = 0;
             memory[1] = 0;
             isResult = false;
             textVisual.Text = "0";
         }
-        private void DelLast(object sender, RoutedEventArgs e)
+        internal void DelLast(object sender, RoutedEventArgs e)
         {
             if(textVisual.Text.Length > 1)
             {
@@ -176,7 +177,7 @@ namespace Kalkulator
                 textVisual.Text = "0";
             }
         }
-        private void Dot(object sender, RoutedEventArgs e)
+        internal void Dot(object sender, RoutedEventArgs e)
         {
             if (isResult || clear)
             {

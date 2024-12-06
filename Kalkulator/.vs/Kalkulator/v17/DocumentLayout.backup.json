@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\view\\usercontrols\\numberbutton.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:view\\usercontrols\\numberbutton.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\view\\usercontrols\\numberbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:view\\usercontrols\\numberbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\kalkulator\\view\\usercontrols\\numberbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDDC66B-5A7B-4707-875C-8A5ED53DB888}|Kalkulator.csproj|solutionrelative:view\\usercontrols\\numberbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,25 +50,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T17:46:39.519Z",
+              "WhenOpened": "2024-12-06T12:52:59.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "NumberButton.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml.cs",
+              "RelativeDocumentMoniker": "View\\userControls\\NumberButton.xaml.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml.cs",
+              "RelativeToolTip": "View\\userControls\\NumberButton.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:49:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberButton.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml",
+              "RelativeDocumentMoniker": "View\\userControls\\NumberButton.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml",
+              "RelativeToolTip": "View\\userControls\\NumberButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T06:48:46.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAgwHsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwLUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T17:46:34.733Z",
               "EditorCaption": ""
@@ -80,19 +117,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-05T07:27:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberButton.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml",
+              "RelativeDocumentMoniker": "View\\userControls\\NumberButton.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Kalkulator\\View\\userControls\\NumberButton.xaml",
+              "RelativeToolTip": "View\\userControls\\NumberButton.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T06:48:48.35Z",
               "EditorCaption": ""
             }
           ]

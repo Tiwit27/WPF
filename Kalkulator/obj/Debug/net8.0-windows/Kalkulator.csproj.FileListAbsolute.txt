@@ -20,3 +20,5 @@ C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\n
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\net8.0-windows\ref\Kalkulator.dll
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.sourcelink.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\net8.0-windows\View\userControls\NumberButton.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\Kalkulator\obj\Debug\net8.0-windows\View\userControls\NumberButton.baml
