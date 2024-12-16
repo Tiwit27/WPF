@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\wpf_tutorial_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\wpf_tutorial_2\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|solutionrelative:view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\wpf_tutorial_2\\view\\usercontrols\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|solutionrelative:view\\usercontrols\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\wpf_tutorial_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79595007-DEF2-4F77-A21D-444CB440F115}|WPF_Tutorial_2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\View\\UserControls\\MenuBar.xaml.cs",
+              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\View\\UserControls\\MenuBar.xaml.cs",
+              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:17:00.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuBar.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\View\\UserControls\\MenuBar.xaml",
+              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\View\\UserControls\\MenuBar.xaml",
+              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:14:21.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T05:55:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\WPF_Tutorial_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:55:17.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

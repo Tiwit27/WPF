@@ -93,7 +93,7 @@ namespace Forum.View.userControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Forum;component/view/usercontrols/messagebox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Forum;V1.0.0.0;component/view/usercontrols/messagebox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\userControls\MessageBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

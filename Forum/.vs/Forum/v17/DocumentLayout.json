@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\forummessageinstance.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\forummessageinstance.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\messagebox.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\messagebox.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\messagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\messagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\forummessageinstance.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\forummessageinstance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\forummessageinstance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\messagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\messagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\forum\\view\\usercontrols\\forummessageinstance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8D69B37-EA97-42E0-94F4-20CBB85973AA}|Forum.csproj|solutionrelative:view\\usercontrols\\forummessageinstance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -74,20 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ForumMessageInstance.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\ForumMessageInstance.xaml.cs",
               "RelativeDocumentMoniker": "View\\userControls\\ForumMessageInstance.xaml.cs",
               "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\ForumMessageInstance.xaml.cs",
               "RelativeToolTip": "View\\userControls\\ForumMessageInstance.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T08:20:29.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ForumMessageInstance.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\ForumMessageInstance.xaml",
               "RelativeDocumentMoniker": "View\\userControls\\ForumMessageInstance.xaml",
@@ -99,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MessageBox.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml.cs",
               "RelativeDocumentMoniker": "View\\userControls\\MessageBox.xaml.cs",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml.cs",
-              "RelativeToolTip": "View\\userControls\\MessageBox.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwB8AAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml.cs*",
+              "RelativeToolTip": "View\\userControls\\MessageBox.xaml.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T19:30:39.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -125,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MessageBox.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml",
               "RelativeDocumentMoniker": "View\\userControls\\MessageBox.xaml",
@@ -133,66 +121,6 @@
               "RelativeToolTip": "View\\userControls\\MessageBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-06T19:25:43.811Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "bef2de31-f250-4f57-ba11-62f0be3a5b62",
-        "Display": 1,
-        "X": 1462,
-        "Y": 442,
-        "Width": 800,
-        "Height": 600,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-06T19:24:22.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MessageBox.xaml",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml",
-              "RelativeDocumentMoniker": "View\\userControls\\MessageBox.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\MessageBox.xaml",
-              "RelativeToolTip": "View\\userControls\\MessageBox.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-06T19:26:52.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ForumMessageInstance.xaml",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\ForumMessageInstance.xaml",
-              "RelativeDocumentMoniker": "View\\userControls\\ForumMessageInstance.xaml",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Forum\\View\\userControls\\ForumMessageInstance.xaml",
-              "RelativeToolTip": "View\\userControls\\ForumMessageInstance.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-07T08:20:02.106Z",
               "EditorCaption": ""
             }
           ]
