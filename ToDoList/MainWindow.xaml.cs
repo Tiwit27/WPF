@@ -11,15 +11,25 @@ namespace ToDoList
         {
             InitializeComponent();
             DataContext = this;
-            DB.Connect();
-            DB.Command(listStackPanel);
+            TodolistInstance.mainWindow = this;
+            DB.listStackPanel = listStackPanel;
+            if(DB.Connect())
+            {
+                DB.Load();
+            }
+            else
+            {
+                var error = new TextBox();
+                error.Text = "Error: Database is not connected";
+                listStackPanel.Children.Add(error);
+            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (!String.IsNullOrEmpty(input.Text))
+            if (!String.IsNullOrEmpty(TitleInput.Text))
             {
-                DB.Add(input, listStackPanel);
+                DB.Add(TitleInput, textInput);
             }
         }
     }

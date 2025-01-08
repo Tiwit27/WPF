@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\3pb\Rafał Łojek\moje\WPF\ToDoList\obj\Debug\net8.0-windows\
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\ToDoList\obj\Debug\net8.0-windows\
 ToDoList
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\3pb\Rafał Łojek\moje\WPF\ToDoList\App.xaml
-11407045341
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\WPF\ToDoList\App.xaml
+21720291913
 
-7-1451824833
-206595372136
-MainWindow.xaml;
+8-1460640577
+206-1787543131
+MainWindow.xaml;TodolistInstance.xaml;
 
-False
+True
 

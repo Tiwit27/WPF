@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Tutorials\\WPF_Tutorial_8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\tutorials\\wpf_tutorial_8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\tutorials\\wpf_tutorial_8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\wpf\\tutorials\\wpf_tutorial_8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA55224A-AF49-436B-A3E9-64C88BB7B94A}|WPF_Tutorial_8.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 384,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Tutorials\\WPF_Tutorial_8\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Tutorials\\WPF_Tutorial_8\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\WPF\\Tutorials\\WPF_Tutorial_8\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T17:37:46.929Z",
               "EditorCaption": ""
